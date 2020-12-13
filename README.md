@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+# Neural Network Art
 
-You can use the [editor on GitHub](https://github.com/annacommers/neural-network-art/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+This project allows users to train an autoencoder neural network on virtually any set of images, then use the trained autoencoder to transform a new set of between one and ten images into pieces of art. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Usage
 
-### Markdown
+It is recommended that the code provided be used in a google colab notebook. The autoencoder relies on the Tensorflow library which is well suited to work in the colab environment. To use the program as is, run the code cell in the notebook `neural-network-art.ipynb`. This will run the `main` function which puts all the classes together. More information on each class is below. In order to train the autoencoder, the `TakeInput` class asks the user for the path to the training images, the name of the training images, and the number of training images. Similarly, to add new images to transform, it asks for a folder path, the name of the images, and the number of images (up to ten). More information on data is below. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Classes
 
-```markdown
-Syntax highlighted code block
+### Autoencoder
 
-# Header 1
-## Header 2
-### Header 3
+### TakeInput
 
-- Bulleted
-- List
+### ViewImages
 
-1. Numbered
-2. List
+### FormatData
 
-**Bold** and _Italic_ and `Code` text
+## Data
 
-[Link](url) and ![Image](src)
-```
+### 
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Authors and Acknowlegment 
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/annacommers/neural-network-art/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+This project was written by Anna Commers with guidance from Steve Matsumoto, for the software design class at Olin College of Engineering.
