@@ -1,4 +1,4 @@
-/Neural Network Art
+Neural Network Art
 
 The use and accessibility of machine learning and artificial intelligence has increased greatly over just the past few years. One application of this technology is 
 art. AI art has been used across mediums in performances, visual pieces, music, interactive displays, and more. As AI technology continues to get more advanced, 
