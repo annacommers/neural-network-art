@@ -19,13 +19,15 @@ It was found that more visually interesting results can be achieved by using vis
 
 ![](website images/orangeart.PNG)
 
-Most machine learning algorithms rely on huge amounts of data and ideally data that covers many scenarios. In this case, a neural network that was good at replicating a specific type of image was desired. It was best for the images to be very visually similar, and it was appropriate to have a small training set since the images were similar. In a sense, a biased result was desired. If the autoencoder was able to recreate the image accurately, the results would not be very interesting. 
+Most machine learning algorithms rely on huge amounts of data and ideally data that covers many scenarios. In this case, a neural network that was good at replicating a specific type of image was desired. It was best for the images to be very visually similar, and it was appropriate to have a small training set since the images were similar. In a sense, a biased result was desired. If the autoencoder was able to recreate the image accurately, the results would not be very unique. 
 
 In contrast to the images above, the below images show other trials. The first is from an autoencoder trained on 95 images of apples (trained the same way as the results above), then given more apple images. While it is interesting to see the images recreated fairly accurately, the output would not likely be considered art by most. The second image below is from an autoencoder trained on about 15,000 images of portraits, then given five new portraits. Although these results are more accurate to the original images, they aren't particularly interesting.
 
 ![](website images/appleapple.PNG)
 
 ![](website images/moreimagetest.PNG)
+
+This project is an example of the fact that the consequences of artificial intelligence algorithms are often less about the algorithms themselves and more about the data put into them and the biases in that data. While there are not many ethical risks associated with this particular project, many AI projects have the power to do harm when they are biased. AI art can bring up a larger conversation about what art is and how humans will continue to coexist with artificial intelligence. 
 
 link to usage instructions in README [here](https://github.com/annacommers/neural-network-art#usage)
 
