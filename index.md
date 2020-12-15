@@ -13,19 +13,19 @@ This project seeks to explore a neural network that can transform images into un
 
 It was found that more visually interesting results can be achieved by using visually similar training images. One type of images that worked particularly well were images of a single type of fruit. The images below were obtained by training the autoencoder on images of apples, bananas, and oranges respectively, then inputting images of artworks to be transformed.
 
-![](websiteimages/artandapples.PNG)
+![](website images/artandapples.PNG)
 
-![](websiteimages/bananaart.PNG)
+![](website images/bananaart.PNG)
 
-![](websiteimages/orangeart.PNG)
+![](website images/orangeart.PNG)
 
 Most machine learning algorithms rely on huge amounts of data and ideally data that covers many scenarios. In this case, a neural network that was good at replicating a specific type of image was desired. It was best for the images to be very visually similar, and it was appropriate to have a small training set since the images were similar. In a sense, a biased result was desired. If the autoencoder was able to recreate the image accurately, the results would not be very interesting. 
 
 In contrast to the images above, the below images show other trials. The first is from an autoencoder trained on 95 images of apples (trained the same way as the results above), then given more apple images. While it is interesting to see the images recreated fairly accurately, the output would not likely be considered art by most. The second image below is from an autoencoder trained on about 15,000 images of portraits, then given five new portraits. Although these results are more accurate to the original images, they aren't particularly interesting.
 
-![](websiteimages/appleapple.PNG)
+![](website images/appleapple.PNG)
 
-![](websiteimages/moreimagetest.PNG)
+![](website images/moreimagetest.PNG)
 
 link to usage instructions in README [here](https://github.com/annacommers/neural-network-art#usage)
 
