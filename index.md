@@ -34,6 +34,7 @@ link to usage instructions in README [here](https://github.com/annacommers/neura
 ## Sources
 
 “Tom White.” CADAF, 2019, cadaf.art/artists/tom-white-1. 
+
 Dinkins, Stephanie. “Not the Only One.” STEPHANIE DINKINS, 2018, www.stephaniedinkins.com/ntoo.html. 
 
 ## About me
