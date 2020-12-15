@@ -29,7 +29,7 @@ This project is an example of the fact that the consequences of artificial intel
 
 link to usage instructions in README [here](https://github.com/annacommers/neural-network-art#usage)
 
-[Download the project](https://github.com/annacommers/neural-network-art.git)
+[Download the project](https://github.com/annacommers/neural-network-art/archive/main.zip)
 
 ## Sources
 
