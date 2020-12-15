@@ -7,3 +7,4 @@ interactive talking sculpture with AI trained on oral history from a black Ameri
 communities underrepresented in tech (Dinkins). Another artist, Tom White, used AI to create abstract illustrations that can be reliably classified by neural 
 networks (Tom). This work allows us to see a part of how AI processes images. 
 
+![](test/test_1.jpg)
