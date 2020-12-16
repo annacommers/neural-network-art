@@ -3,7 +3,7 @@ art. AI art has been used across mediums in performances, visual pieces, music, 
 these projects push us to consider how we define art and how artificial intelligence will fit into our future world. For example, Stephanie Dinkins created an 
 interactive talking sculpture with AI trained on oral history from a black American family (Dinkins). The piece is meant to explore the concerns and ideals of 
 communities underrepresented in tech (Dinkins). Another artist, Tom White, used AI to create abstract illustrations that can be reliably classified by neural 
-networks (Tom). This work allows us to see a part of how AI processes images. 
+networks (Tom). This work allows us to see a part of how AI processes images. AI art has impacts in the software world as well as the art world.
 
 This project seeks to explore a neural network that can transform images into unique abstract art. The neural network is an autoencoder that can be trained on virtually any set of images and, after training, transform a new set of images. The code for the project uses the Tensorflow library in order to train an autoencoder on a set of images. Once trained, the autoencoder can be used to transform a new set of images into abstract art that is visually similar to the training set. The user can choose any type and number of images they want to train on. Similarly, the user can use any images they wish to transform, and they can choose up to ten of them at one time.
 
